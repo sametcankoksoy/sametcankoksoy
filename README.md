@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sametcan Köksoy</h1>
+<h1 align="center">Hi, I'm Sametcan Köksoy</h1>
 <h3 align="center">Data Scientist | Software Developer</h3>
 
   <div>
@@ -44,10 +44,6 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
   </a>
 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
-  </a>
-
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="55" height="55"/>
   </a>
@@ -56,30 +52,22 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
   </a>
 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="55"/>
-  </a>
-
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/>
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sametcan-köksoy-0b505031b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sametcan-köksoy-0b505031b" height="40" width="40" /></a>
-<a href="https://medium.com/@sametkoksoyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sametkoksoyy" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@sametcankoksoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sametcankoksoy" height="40" width="40" /></a>
-</p>
 
-![snake gif](https://github.com/sametcankoksoy/sametcankoksoy/blob/output/github-snake-dark.svg)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sametcankoksoy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sametcankoksoy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div>
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sametcankoksoy&theme=aura_dark" alt="Sametcan Koksoy's GitHub stats" />
 </div>
+<br clear="both" />
+
+<div>
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sametcankoksoy&theme=aura_dark" alt="sametcankoksoy's GitHub stats" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sametcankoksoy&theme=aura_dark&utcOffset=8" alt="sametcankoksoy" />
+</div>
+<br clear="both" />
+
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sametcankoksoy&show_icons=true&theme=radical&count_private=true" alt="sametcankoksoy's GitHub stats" />
+</div>
+
 
