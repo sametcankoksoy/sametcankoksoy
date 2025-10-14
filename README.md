@@ -10,16 +10,9 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@sametkoksoyy)
 
-- 📫 How to reach me **developer@sametcankoksoy.work** OR **sametkoksoyy@gmail.com**
+- 📫 How to reach me **sametkoksoyy@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/sametcan-köksoy-0b505031b)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sametcan-köksoy-0b505031b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sametcan-köksoy-0b505031b" height="55" width="55" /></a>
-<a href="https://medium.com/@sametkoksoyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sametkoksoyy" height="55" width="55" /></a>
-<a href="https://www.youtube.com/@sametcankoksoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sametcankoksoy" height="55" width="55" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
@@ -32,15 +25,15 @@
   </a>
 
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="55" height="55"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50"/>
   </a>
 
   <a href="https://openai.com" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/306500/openai.svg" alt="openai" width="55" height="55"/>
+    <img src="https://www.svgrepo.com/show/306500/openai.svg" alt="openai" width="50" height="50"/>
   </a>
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   </a>
 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -48,11 +41,11 @@
   </a>
 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="55" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
   </a>
 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="55" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
   </a>
 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
@@ -60,20 +53,27 @@
   </a>
 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="55" height="55"/>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
   </a>
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="55"/>
   </a>
 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="55" height="55"/>
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/>
   </a>
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
   </a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sametcan-köksoy-0b505031b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sametcan-köksoy-0b505031b" height="40" width="40" /></a>
+<a href="https://medium.com/@sametkoksoyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sametkoksoyy" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@sametcankoksoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sametcankoksoy" height="40" width="40" /></a>
 </p>
 
 <div align="left">
