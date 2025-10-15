@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@sametkoksoyy)
 
-- 📫 How to reach me **sametkoksoyy@gmail.com**
+- 📫 You can contact me a **sametkoksoyy@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/sametcan-köksoy-0b505031b)
 
