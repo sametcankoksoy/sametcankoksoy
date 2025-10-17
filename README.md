@@ -66,8 +66,5 @@
 </div>
 <br clear="both" />
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sametcankoksoy&show_icons=true&theme=radical&count_private=true" alt="sametcankoksoy's GitHub stats" />
-</div>
 
 
