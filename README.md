@@ -64,7 +64,8 @@
   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sametcankoksoy&theme=aura_dark" alt="sametcankoksoy's GitHub stats" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sametcankoksoy&theme=aura_dark&utcOffset=8" alt="sametcankoksoy" />
 </div>
-<br clear="both" />
+
+![snake gif](https://github.com/sametcankoksoy/sametcankoksoy/blob/output/github-snake-dark.svg)
 
 
 
