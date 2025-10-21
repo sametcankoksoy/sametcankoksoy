@@ -6,9 +6,9 @@
   </div>
 </div>
 
-- 🔭 I’m currently working **as Python Developer**
+- 🧑‍💻 I’m currently working **as Python Developer**
 
-- 📫 You can contact me at **developer@sametcankoksoy.work**
+- 📩 You can contact me at **developer@sametcankoksoy.work**
 
 - 📄 Discover my background and projects on [Linkedin](https://www.linkedin.com/in/sametcan-köksoy-0b505031b)
 
