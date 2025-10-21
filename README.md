@@ -6,22 +6,16 @@
   </div>
 </div>
 
-- 🔭 I’m currently working **as Data Scientist**
+- 🔭 I’m currently working **as Python Developer**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@sametkoksoyy)
+- 📫 You can contact me at **developer@sametcankoksoy.work**
 
-- 📫 You can contact me a **sametkoksoyy@gmail.com**
-
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/sametcan-köksoy-0b505031b)
+- 📄 Discover my background and projects on [Linkedin](https://www.linkedin.com/in/sametcan-köksoy-0b505031b)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="65" height="65"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
   </a>
 
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
