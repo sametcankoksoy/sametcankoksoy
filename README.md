@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sametcan Köksoy</h1>
-<h3 align="center">Data Scientist | Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 
   <div>
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3F3MG03OHNsMmdwYTA3NWlpNDN1bXE5eGU2amNxc2V5d2dwZDZveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" align="right" alt="gif" width="250"/>
