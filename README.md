@@ -8,42 +8,6 @@
 
 - 📄 Discover my background and projects on [Linkedin](https://www.linkedin.com/in/sametcan-köksoy-0b505031b)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="65" height="65"/>
-  </a>
-
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50"/>
-  </a>
-
-  <a href="https://openai.com" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/306500/openai.svg" alt="openai" width="50" height="50"/>
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  </a>
-
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="55" height="55"/>
-  </a>
-
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
-  </a>
-
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="55" height="55"/>
-  </a>
-
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
-  </a>
-
-</p>
-
 
 <div>
   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sametcankoksoy&theme=aura_dark" alt="Sametcan Koksoy's GitHub stats" />
