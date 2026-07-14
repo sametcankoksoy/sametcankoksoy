@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 
-- 🧑‍💻 I’m currently working **as Python Developer**
+- 🧑‍💻 I’m currently working **as Full-Stack Developer**
 
 - 📩 You can contact me at **developer@sametcankoksoy.work**
 
