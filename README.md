@@ -4,7 +4,7 @@
 
 - 🧑‍💻 I’m currently working **as Full-Stack Developer**
 
-- 📩 You can contact me at **developer@sametcankoksoy.work**
+- 📩 You can contact me at **sametcankoksoy@gmail.com**
 
 - 📄 Discover my background and projects on [Linkedin](https://www.linkedin.com/in/sametcan-köksoy-0b505031b)
 
